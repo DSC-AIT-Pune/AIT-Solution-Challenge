@@ -1,7 +1,9 @@
 # AIT-Solution-Challenge
 
 ### Solving Real life Problems using Google Technologies
+
 ### 5 tracks (3 problem statements, 2 open Innovation)
+
 ### An exclusive event for FEs, SEs & TEs of GDSC AIT community members desiring to work on different projects alongside being rewarded with a stipend and some amazing goodies.
 
 ## TimeLine
